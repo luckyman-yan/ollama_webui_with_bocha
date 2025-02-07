@@ -41,7 +41,7 @@ Before proceeding, ensure you're using **Python 3.11** to avoid compatibility is
    npm run build
    ```
 
-## start the Open WebUI server
+## Start the Open WebUI server
 
   Linux:
 
@@ -56,5 +56,23 @@ Before proceeding, ensure you're using **Python 3.11** to avoid compatibility is
    start_windows.bat
    ```  
 
-This will start the Open WebUI server, which you can access at [http://localhost:8080](http://localhost:8080)
+This will start the Open WebUI server, which you can access at [http://localhost:8080](http://localhost:8080).
 
+You need to set your account and password as administrator information when you use it for the first time. Then you can start using the service.
+
+![Open WebUI Demo](./demo.gif)
+
+## Open web search
+
+To access Web Search, Click on the + next to the message input field.
+
+Here you can toggle Web Search On/Off. [Open Web search](./pictures/webser_open.png)
+
+If you want to change the search engine, let's change it to Bocha as an example.
+1. Navigate to Admin Panel -> Settings -> Web Search
+2. Toggle Enable Web Search
+3. Set Web Search Engine from dropdown menu to Bocha
+4. Fill Mojeek Search API Key with the API key
+5. Click Save
+[Change Web search](./pictures/webser_change2.png)
+[Change Web search](./pictures/webser_change3.png)
