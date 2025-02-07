@@ -41,7 +41,7 @@ Before proceeding, ensure you're using **Python 3.11** to avoid compatibility is
    npm run build
    ```
 
-5. **start the Open WebUI server**:
+## start the Open WebUI server
 
   Linux:
 
