@@ -66,7 +66,8 @@ You need to set your account and password as administrator information when you 
 
 To access Web Search, Click on the + next to the message input field.
 
-Here you can toggle Web Search On/Off. [Open Web search](./pictures/webser_open.png)
+Here you can toggle Web Search On/Off. 
+<img src="./pictures/webser_open.png" width="600" />
 
 If you want to change the search engine, let's change it to Bocha as an example.
 1. Navigate to Admin Panel -> Settings -> Web Search
@@ -74,5 +75,5 @@ If you want to change the search engine, let's change it to Bocha as an example.
 3. Set Web Search Engine from dropdown menu to Bocha
 4. Fill Mojeek Search API Key with the API key
 5. Click Save
-[Change Web search](./pictures/webser_change2.png)
-[Change Web search](./pictures/webser_change3.png)
+<img src="./pictures/webser_change2.png" width="600" />
+<img src="./pictures/webser_change3.png" width="600" />
